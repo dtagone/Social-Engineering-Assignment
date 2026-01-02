@@ -74,3 +74,28 @@ All URLs resolve to the same root domain.
 ## Root Domain Identification
 
 **Root Domain:**
+- devret.xyz
+- defanged into devret[.]xyz
+
+---
+
+## Additional tasks
+- Phishing email impersonated **Citrix**
+- Netflix-themed phishing emails should be reported to the official Netflix phishing reporting page
+- Technique used in the example to presuade the victim was urgency
+- Email has to link url, instead it lead to an excel document that attempt to run regasms.exe
+
+---
+
+## Key Takeaways
+- Phishing emails often use brand impersonation and urgency
+- Legitimate organizations rarely request sensitive data via email
+- URL defanging is essential for safe documentation
+- Suspicious emails should always be reported to the impersonated organization
+
+---
+
+## Conclusion
+This exercise improved practical skills in phishing detection, email analysis, and secure reporting.  
+These skills are critical for defending against real-world social engineering attacks.
+
