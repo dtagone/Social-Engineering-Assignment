@@ -29,7 +29,7 @@ This exercise required reviewing multiple emails and determining whether each wa
 |-----------|--------|-------|
 | Email 1 | Legitimate | No grammar issues or suspicious links |
 | Email 2 | Phishing | Domain impersonation (`r nicrosoft`) |
-| Email 3 | Phishing | Unusual and unexpected request |
+| Email 3 | Phishing | Unusual and unexpected request from a contact, possibly compromised|
 | Email 4 | Phishing | Fake URL |
 | Email 5 | Phishing | Requested enabling macros |
 | Email 6 | Phishing | Credential-harvesting link |
