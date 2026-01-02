@@ -1,7 +1,6 @@
 # Social-Engineering-Assignment
 # Social Engineering & Phishing Analysis Write-Up
 
-## Author
 **Name:** Muhammad A’beed bin Firdaus  
 **Student ID:** 52215124303  
 
